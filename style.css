@@ -1,0 +1,126 @@
+.uppertitle {
+    display: flex;
+}
+.upperfir {
+    display: flex;
+}
+.uppersec {
+    display: flex;
+}
+.upperthi {
+    display: flex;
+}
+.lowertitle {
+    display: flex;
+}
+.lowerfir {
+    display: flex;
+}
+.lowersec {
+    display: flex;
+}
+.lowerthi {
+    display: flex;
+}
+.upleft{
+    width:550px;
+}
+.ufirleft{color: #007a99;
+    width: 400px;
+}
+.upmid{
+    width: 550px
+}
+.ufirmid{color: #007a99;
+    width:400px;
+}
+.ufirright{color: #007a99;
+    width: 400px;
+}
+.usecleft{color: #007a99;
+    width: 400px;
+    height: 50px;
+}
+.usecfirspa{
+    width: 150px;
+}
+.usecmid{color: #007a99;
+    width: 400px;
+    height: 50px;
+}
+.usecsecspa{
+    width: 150px;
+}
+.usecright{color: #007a99;
+    width: 400px;
+    height: 50px;
+}
+.uthileft{color: #007a99;
+    width: 400px;
+    height: 50px;
+}
+.uthifirspa{
+    width: 150px;
+}
+.uthimid{color: #007a99;
+    width:400px;
+    height: 50px;
+}
+.uthisecspa{
+    width: 150px;
+}
+.uthiright{color: #007a99;
+    width: 400px;
+    height: 50px;
+}
+.lowleft{
+    width:550px;
+}
+.lofirleft{color: #007a99;
+    width: 400px;
+}
+.lowmid{
+    width: 550px
+}
+.lofirmid{color: #007a99;
+    width:390px;
+}
+.lofirright{color: #007a99;
+    width: 400px;
+}
+.losecleft{color: #007a99;
+    width: 400px;
+    height: 50px;
+}
+.losecfirspa{
+    width: 150px;
+}
+.losecmid{color: #007a99;
+    width: 400px;
+    height: 50px;
+}
+.losecsecspa{
+    width: 150px;
+}
+.losecright{color: #007a99;
+    width: 400px;
+    height: 50px;
+}
+.lothileft{color: #007a99;
+    width: 400px;
+    height: 50px;
+}
+.lothifirspa{
+    width: 150px;
+}
+.lothimid{color: #007a99;
+    width:400px;
+    height: 50px;
+}
+.lothisecspa{
+    width: 150px;
+}
+.lothiright{color: #007a99;
+    width: 400px;
+    height: 50px;
+}
